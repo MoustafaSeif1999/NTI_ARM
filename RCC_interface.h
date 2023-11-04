@@ -2,7 +2,7 @@
  * MRCC_interface.h
  *
  *  Created on: Nov 1, 2023
- *      Author: Mostafa_Salem
+ *      Author: Moustafa Seif
  */
 
 #ifndef MCAL_MRCC_MRCC_INTERFACE_H_

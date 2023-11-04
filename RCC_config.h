@@ -2,7 +2,7 @@
  * MRCC_config.h
  *
  *  Created on: Nov 1, 2023
- *      Author: Mostafa_Salem
+ *      Author: Moustafa Seif
  */
 
 #ifndef MCAL_MRCC_MRCC_CONFIG_H_

@@ -2,7 +2,7 @@
  * MRCC_program.c
  *
  *  Created on: Nov 1, 2023
- *      Author: Mostafa_Salem
+ *      Author: Moustafa Seif
  */
 #include "../../LIB/Bit_Math.h"
 #include "../../LIB/STD_Types.h"
